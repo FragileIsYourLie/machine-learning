@@ -2,8 +2,6 @@
 
 1、统计机器学习：机器学习理论。陈凯老师统计机器学习的课件、作业以及我的解答
 
-老师推荐的读物和网站：deepseekv3技术报告、matrixcookbook、https://scikit-learn.org/stable/auto_examples/cluster/plot_cluster_comparison.html
-
 2、Code：传统机器学习。我本人自学的机器学习算法的示例代码
 
 3、八股：机器学习、深度学习、Python开发
